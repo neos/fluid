@@ -3,7 +3,7 @@ Fluid Templating Framework
 --------------------------
 
 .. note:: This repository is a **read-only subsplit** of a package that is part of the
-          Flow framework (learn more on `flow.typo3.org <http://flow.typo3.org/>`_).
+          Flow framework (learn more on `flow.typo3.org <http://flow.neos.io/>`_).
 
 Fluid is a next-generation templating framework for Neos and Flow.
 
